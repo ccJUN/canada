@@ -1,0 +1,40 @@
+#left{
+	 float:left;
+	 width:200px;
+	 height:510px;
+	 background:#FFF;
+	 padding:40px 0 0 0 ;
+}
+#left li{
+	width:100px;
+	float:none;
+	background:#FFF;
+	margin-left:40px;
+}
+	
+#left ul{
+	list-style:url(leader.jpg);
+	 background:#FFF;
+}
+#left a{
+	  color:#7d7d7d;	 
+	  background:#FFF;
+}
+#left li ul li {
+	margin:0 0 0 -15px;
+	 font-size:12px;
+}
+#h3{
+	height:20px;
+	width:200px;
+}
+#right{
+	float:right;
+	width:680px;
+	height:550px;
+	border:1px #000 solid;
+}
+#right li {
+	height:60px;
+	width:100px;
+}
